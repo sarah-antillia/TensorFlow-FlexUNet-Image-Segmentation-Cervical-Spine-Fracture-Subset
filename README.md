@@ -14,7 +14,7 @@ which was derived by us from the Kaggle
 <a href="https://www.kaggle.com/datasets/akshat0912/png-data-for-cervical-spine-fracture-segmentation">
 <b>PNG Data for Cervical Spine Fracture Segmentation</b>
 </a> by Akshat Verma.
-<br><br>
+<br>
 <hr>
 <b>Actual Image Segmentation for Cervical Spine Fracture Images of 512x512 pixels</b><br>
 As shown below, the inferred masks resemble the ground-truth masks. <br>
