@@ -268,7 +268,7 @@ Evaluation console output:<br>
 <br><br>Image-Segmentation-Cervical-Spine-Fracture-Subset
 
 <a href="./projects/TensorFlowFlexUNet/Cervical-Spine-Fracture-Subset/evaluation.csv">evaluation.csv</a><br>
-The loss (categorical_crossentropy) on this Cervical-Spine-Fracture-Subset/test was low, and dice_coef_multiclass was high, as shown below.
+The loss (categorical_focal_dice_loss) on this Cervical-Spine-Fracture-Subset/test was low, and dice_coef_hybrid was high, as shown below.
 <br>
 <pre>
 categorical_focal_dice_loss,0.0117
